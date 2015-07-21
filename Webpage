@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>J. Stew</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+
+    <script src="my_script.js"></script>
+
+    <h1>J. Stew</h1>
+  </head>
+  <img height="400" width="200" src="file://localhost/Users/CSSI/Desktop/Dev/html/My%20First%20Webpage/IMG_7216.JPG" </img>
+  <br></br>
+    <body>
+    Hello everyone, my name is Jordan Stewart, but you can call me J. Stew!
+
+    <p>
+      I am 18 years old, born and raised on the South Side of Chicago.
+    </p>
+
+    <p>
+      I make music and play basketball as my main hobbies. Check out my highlight tape!
+
+      <br>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/5R00R8ofHA4" frameborder="0" allowfullscreen></iframe>
+      </br>
+
+      <br>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/SABAV2x_Wdc" frameborder="0" allowfullscreen></iframe>
+      </br>
+
+    <p>
+      This fall I will be attending <strong>Howard University</strong>!
+    </p>
+
+    </body>
+
+    <ul>
+      <li> <a href="https://twitter.com/stewtheg"> Twitter </a>
+      <li> <a href="https://soundcloud.com/stewbrfm"> Soundcloud </a>
+
+</html>
